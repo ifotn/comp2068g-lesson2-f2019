@@ -1,0 +1,14 @@
+{
+  "name": "f19lesson2",
+  "version": "1.0.0",
+  "description": "Starting with npm",
+  "main": "taxCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1"
+  }
+}
